@@ -3,4 +3,4 @@ From: centos:latest
 
 %post
 
-	yum update -y
+    yum update -y
